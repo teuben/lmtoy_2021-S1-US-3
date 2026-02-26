@@ -1,3 +1,4 @@
+# bogus comments
 # comments and flags for M100 - by default we remove beams 0 and 5, except where overridden below with pix_list=
 #
 #  pars1['M100'] = "dv=250 dw=300 extent=220"
