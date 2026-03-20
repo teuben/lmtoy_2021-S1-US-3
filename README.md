@@ -13,6 +13,9 @@ Given that ALMA is aiming (with ATLAST) for a 50m single dish, having
 a combination between ALMA and LMT data seems appropriate.
 
 https://github.com/teuben/lmtoy_2021-S1-US-3
+
+Paper of results in:    https://ui.adsabs.harvard.edu/abs/2022ApJ...930..170H/abstract
+
 ## OBSNUM
 
 A total of 46 science obsnum's were taken in the CO line (115.3
